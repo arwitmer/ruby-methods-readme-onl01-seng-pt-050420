@@ -3,4 +3,8 @@ def greeting
 end
 
 greeting
-$SAFE
+greeting
+greeting
+greeting
+greeting
+$ 
