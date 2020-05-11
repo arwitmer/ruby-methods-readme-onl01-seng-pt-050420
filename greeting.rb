@@ -7,4 +7,5 @@ greeting
 greeting
 greeting
 greeting
-$ $SAFE
+
+$SAFE
